@@ -1,0 +1,21 @@
+{
+  "name": "calculate_jest_codeship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator_test.js",
+  "scripts": {
+    "test" : "jest && codecov",
+    "start": "babel-node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomjawhoon/calculate_jest_codeship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomjawhoon/calculate_jest_codeship/issues"
+  },
+  "homepage": "https://github.com/tomjawhoon/calculate_jest_codeship#readme"
+}
